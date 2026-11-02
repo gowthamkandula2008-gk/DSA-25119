@@ -2,7 +2,6 @@
 
 <p align="center">
 
-### BACHELOR OF TECHNOLOGY
 ### COMPUTER SCIENCE AND ENGINEERING
 
 **AMRITA VISHWA VIDYAPEETHAM**  
@@ -104,15 +103,6 @@ Upon completing these laboratory exercises, the following skills are developed:
 | Institution | Amrita Vishwa Vidyapeetham |
 | Campus | Amaravati |
 
----
-
-## 🙏 Acknowledgement
-
-I express my sincere gratitude to **Dr. Rajkumar Batchu, Assistant Professor (Selection Grade), School of Computing**, for his valuable guidance and support throughout the Data Structures and Algorithms Laboratory.
-
-I also acknowledge Amrita Vishwa Vidyapeetham for providing the academic environment and resources necessary to explore and strengthen my understanding of data structures and algorithmic concepts.
-
----
 
 <p align="center">
 
